@@ -676,31 +676,31 @@ figure.snip1321.hover:after {
 	transition: .5s ease-in-out;
 	z-index: 1;
 }
-ul li:nth-child(1) .fa
+.social-icon ul li:nth-child(1) .fa
 {
 	color: #3b5999;  
 }
-ul li:nth-child(2) .fa
+.social-icon ul li:nth-child(2) .fa
 {
 	color: #55acee;  
 }
-ul li:nth-child(3) .fa
+.social-icon ul li:nth-child(3) .fa
 {
 	color: #dd4b39;  
 }
-ul li:nth-child(4) .fa
+.social-icon ul li:nth-child(4) .fa
 {
 	color: #0077B5;  
 }
-ul li:nth-child(5) .fa
+.social-icon ul li:nth-child(5) .fa
 {
 	color: #e4405f;  
 }
-ul li a:hover .fa
+.social-icon ul li a:hover .fa
 {
 	color: #fff;
 }
-ul li a:before
+.social-icon ul li a:before
 {
 	content: '';
 	width: 100%;
@@ -713,28 +713,28 @@ ul li a:before
 	transition: .5s ease-in-out;
 	z-index: -1;
 }
-ul li:nth-child(1) a:before
+.social-icon ul li:nth-child(1) a:before
 {
 	background: #3b5999;  
 }
-ul li:nth-child(2) a:before
+.social-icon ul li:nth-child(2) a:before
 {
 	background: #55acee;  
 }
-ul li:nth-child(3) a:before
+.social-icon ul li:nth-child(3) a:before
 {
 	background: #dd4b39;  
 }
-ul li:nth-child(4) a:before
+.social-icon ul li:nth-child(4) a:before
 {
 	background: #0077B5;  
 }
-ul li:nth-child(5) a:before
+.social-icon ul li:nth-child(5) a:before
 {
 	background: #e4405f;  
 }
 
-ul li a:hover:before
+.social-icon ul li a:hover:before
 {
 	transform: scale(.9);
 }
